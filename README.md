@@ -1,7 +1,13 @@
 # Tic-Tac-Pro
 A Java game that teaches kids the ultimate strategy to winning Tic-Tac-Toe
 
-BUILD OUTPUT DESCRIPTION
+# Contributors
+
+- Brandon Costa
+- Sydney Cardy
+- Joseph Bertone
+
+# BUILD OUTPUT DESCRIPTION
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -17,7 +23,7 @@ java -jar "TicTacPro.jar"
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
-Notes:
+# Notes:
 
 * If two JAR files on the project classpath have the same name, only the first
 JAR file is copied to the lib folder.
